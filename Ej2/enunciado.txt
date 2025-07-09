@@ -1,0 +1,44 @@
+Una escuela necesita un sistema para registrar datos de sus alumnos y analizar los resultados.
+
+Tarea:
+
+Pedir al usuario que ingrese la cantidad de alumnos que desea registrar.
+
+Para cada alumno, ingresar:
+
+Nombre
+
+Edad
+
+Nota final (entre 0 y 10)
+
+Guardar los datos de cada alumno en un objeto, con las propiedades:
+
+js
+Copiar
+Editar
+{
+  nombre: '...',
+  edad: ...,
+  nota: ...
+}
+Luego, guardar todos esos objetos en un arreglo.
+
+Una vez que todos los datos estén ingresados:
+
+Mostrar la lista completa de alumnos con sus datos.
+
+Mostrar el alumno con la mejor nota y el de la peor nota.
+
+Calcular el promedio de notas.
+
+Mostrar un mensaje:
+
+Si el promedio es mayor o igual a 7 → "Excelente rendimiento grupal".
+
+Si el promedio está entre 4 y 7 → "Rendimiento aceptable".
+
+Si el promedio es menor a 4 → "Rendimiento bajo".
+
+✅ Extra (opcional):
+Podés validar que las notas estén entre 0 y 10 y que la edad sea positiva.
