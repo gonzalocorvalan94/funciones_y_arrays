@@ -1,0 +1,25 @@
+Una ciudad quiere registrar las temperaturas máximas de los últimos 7 días y luego analizar esos datos.
+
+Tu tarea:
+
+Crear un programa que:
+
+Permita ingresar las temperaturas máximas de los 7 días (pueden ser números con decimales).
+
+Guarde esas temperaturas en un arreglo.
+
+Luego, tu programa debe:
+
+Mostrar todas las temperaturas ingresadas.
+
+Mostrar la temperatura más alta y la más baja de la semana.
+
+Calcular y mostrar el promedio semanal.
+
+Mostrar un mensaje:
+
+Si el promedio es mayor o igual a 30°C, mostrar: "¡Semana muy calurosa!"
+
+Si el promedio está entre 15°C y 30°C, mostrar: "Temperaturas agradables."
+
+Si el promedio es menor a 15°C, mostrar: "Semana fría."
